@@ -1,0 +1,1 @@
+Letakkan hero.jpg (latar beranda) dan banner.jpg (banner bawah) di folder ini.
